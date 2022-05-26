@@ -1,0 +1,61 @@
+---
+Items:
+# Usage: ItemId:ItemMeta:ItemName:Price
+# Example: " - 1:0:PrivateItemName:18" 
+ - 295:0:Wheat Seed:1 
+ - 458:0:Beet Seed:1 
+ - 361:0:Pumpkin Seed:1 
+ - 362:0:Watermelon Seed:1 
+ - 296:0:Wheat:1 
+ - 457:0:Beet:1 
+ - 392:0:Potato:1 
+ - 391:0:Carrot:1 
+ - 260:0:Apple:1 
+ - 103:0:Watermelon:1 
+ - 360:0:Slice Watermelon:1 
+ - 86:0:Pumpkin:1 
+ - 351:1:Cocoa Bean:1 
+ - 365:0:Raw Chicken Meat:1 
+ - 319:0:Raw Pork:1 
+ - 363:0:Raw Beef:1 
+ - 423:0:Raw Mutton:1 
+ - 338:0:Candy Cane:1 
+ - 367:0:Rotten Meat:1 
+ - 352:0:Bone:1 
+ - 375:0:Spider Eye:1 
+ - 1:0:Stone:1 
+ - 4:0:Kırıktaş:1 
+ - 372:0:Nether Wart:1 
+ - 366:0:Cooked Chicken:1 
+ - 320:0:Cooked Pork Chops:1 
+ - 364:0:Cooked Steak:1 
+ - 424:0:Cooked Mutton:1 
+ - 263:0:Coal:1 
+ - 265:0:Iron:1 
+ - 266:0:Gold:1 
+ - 264:0:Diamond:1 
+ - 388:0:Emerald:1 
+ - 20:0:Glass:1 
+ - 173:0:Coal Block:1 
+ - 42:0:Iron Block:1 
+ - 41:0:Golden Block:1 
+ - 57:0:Diamond Block:1 
+ - 133:0:Emerald Block:1 
+ - 155:0:Quartz Block:1 
+ - 35:0:White Wool:1 
+ - 12:0:Sand:1 
+ - 168:0:Prismarine:1 
+ - 168:1:Dark Prism:1 
+ - 112:0:Nether Bricks:1 
+ - 215:0:Red Nether Bricks:1 
+ - 201:0:Purpur Block:1 
+ - 3:0:Earth:1 
+ - 2:0:Grass:1 
+ - 243:0:Pozdol:1 
+ - 110:0:Mycelium:1 
+ - 17:0:Oak Log:1 
+ - 17:1:Pine Log:1 
+ - 17:2:Birch Log:1 
+ - 17:3:Great Forest Log:1 
+ - 162:0:Acacia Stump:1 
+ - 162:0:Dark Oak Log:1
